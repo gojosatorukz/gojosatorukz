@@ -1,4 +1,9 @@
 <div align="center">
+  <!-- Спокойная черно-белая аниме гифка -->
+  <img src="https://media.tenor.com/a9c1B-M3jKwAAAAC/anime-black-and-white.gif" width="400" alt="Aesthetic Anime Girl" />
+
+  <br><br>
+
   <!-- Строгий печатающийся заголовок белого цвета -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bekzat;Backend+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
@@ -13,6 +18,7 @@
 * 💻 Focusing on **Go (Golang)** architecture, concurrency, and high-load systems.
 * 🚀 Building AI startups and frequently participating in hackathons.
 * 🎨 Passionate about clean UI design and building engaging pet projects.
+* ⚡ Fun fact: When I'm not writing code, I'm usually hitting the gym or watching *Kimi ni Todoke*.
 
 ---
 
@@ -22,20 +28,11 @@
   <!-- Черно-белые бейджи -->
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firestore" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <!-- Статистика в темной теме с белым акцентом -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gojosatorukz&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d&hide_border=false" alt="Bekzat's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gojosatorukz&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d&hide_border=false" alt="Top Langs" />
 </div>
 
 ---
