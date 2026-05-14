@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Спокойная черно-белая аниме гифка -->
-  <img src="https://media.tenor.com/6BewC6Er9vcAAAAM/anime-firl.gif" alt="Aesthetic Anime Girl" />
+  <img src="https://images.steamusercontent.com/ugc/876371550985676254/6EE575A7BE63E6C3164E7F29B466C2A10A6F0642/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Aesthetic Anime Girl" />
 
   <br><br>
 
