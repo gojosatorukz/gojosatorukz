@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Спокойная черно-белая аниме гифка -->
-  <img src="https://media.tenor.com/a9c1B-M3jKwAAAAC/anime-black-and-white.gif" width="400" alt="Aesthetic Anime Girl" />
+  <img src="https://images.steamusercontent.com/ugc/876371550985676254/6EE575A7BE63E6C3164E7F29B466C2A10A6F0642/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Aesthetic Anime Girl" />
 
   <br><br>
 
@@ -18,7 +18,6 @@
 * 💻 Focusing on **Go (Golang)** architecture, concurrency, and high-load systems.
 * 🚀 Building AI startups and frequently participating in hackathons.
 * 🎨 Passionate about clean UI design and building engaging pet projects.
-* ⚡ Fun fact: When I'm not writing code, I'm usually hitting the gym or watching *Kimi ni Todoke*.
 
 ---
 
@@ -41,7 +40,7 @@
 
 <div align="left">
   <!-- Ссылки на твои соцсети -->
-  <a href="https://www.linkedin.com/in/bekzat-rashiduly/">
+  <a href="https://www.linkedin.com/in/bekzat-rashiduly-779a903b7/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/bekzatr_/">
