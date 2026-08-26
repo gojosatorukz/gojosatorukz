@@ -40,7 +40,7 @@
 
 <div align="left">
   <!-- Ссылки на твои соцсети -->
-  <a href="https://www.linkedin.com/in/bekzat-rashiduly-779a903b7/">
+  <a href="https://www.linkedin.com/in/bekzat-rashiduly/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/bekzatr_/">
