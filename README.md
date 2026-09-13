@@ -12,47 +12,74 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-* 🎓 2nd-year Software Engineering student at **AITU** & studying Backend/AI at **Tomorrow School**.
-* 💻 Focusing on **Go (Golang)** architecture, concurrency, and high-load systems.
-* 🚀 Building AI startups and frequently participating in hackathons.
-* 🎨 Passionate about clean UI design and building engaging pet projects.
-
----
-
-### 🛠 Tech Stack
-
-<div align="left">
-  <!-- Черно-белые бейджи -->
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firestore" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+- 💼 Software Engineer at **ESEP**
+- 🎓 3rd-year **Software Engineering** student at **Astana IT University**
+- 🤖 Studying **AI/ML at Tomorrow School**
+- ⚙️ Focused on **Go backend development, system architecture and AI integration**
+- 🧠 Interested in **LLMs, RAG, local AI and intelligent systems**
+- 🏆 3rd place at **AI Steppe Tech Hackathon 2026**
+- 🚀 I enjoy turning technical ideas into real working products
+- 🧩 Strong background in algorithms and competitive programming
 
 ---
 
-### 🌐 Connect with me
+## 🚀 Featured Work
 
-<div align="left">
-  <!-- Ссылки на твои соцсети -->
-  <a href="https://www.linkedin.com/in/bekzat-rashiduly/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/bekzatr_/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.instagram.com/b_rashiduly/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:b.rashiduly@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://t.me/b_rashiduly">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</div>
+### 🧠 Steppe — Local AI Meeting Intelligence
+
+Privacy-first multilingual AI meeting platform that runs locally on the user's computer.
+
+- Real-time transcription in Kazakh, Russian and English
+- AI-generated meeting summaries
+- Action items and deadlines
+- RAG-based Q&A
+- Local AI processing
+- PDF / CSV / JSON export
+
+🏆 **3rd place — AI Steppe Tech Hackathon 2026**
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+`Go` `Python` `Node.js` `REST API` `PostgreSQL` `Redis`
+
+### AI / ML
+`Python` `LLMs` `RAG` `Speech-to-Text` `Local AI`
+
+### Infrastructure
+`Docker` `Git` `GitLab CI/CD` `Kubernetes`
+
+### Other
+`C++` `Flutter` `Firebase`
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced **Go backend architecture**
+- **Machine Learning & AI Engineering**
+- Distributed and high-load systems
+- Production AI systems
+- System Design
+
+---
+
+## 🎯 Current Focus
+
+I'm currently focused on combining:
+
+**Backend Engineering + AI Engineering + Product Development**
+
+to build scalable products that solve real-world problems.
+
+---
+
+## 🤝 Connect with me
+
+[LinkedIn](https://linkedin.com/in/bekzat-rashiduly) •
+[LeetCode](https://leetcode.com/u/bekzatr_/) •
+[Instagram](https://instagram.com/b_rashiduly)
