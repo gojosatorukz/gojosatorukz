@@ -1,85 +1,52 @@
-<div align="center">
-  <!-- Спокойная черно-белая аниме гифка -->
-  <img src="https://images.steamusercontent.com/ugc/876371550985676254/6EE575A7BE63E6C3164E7F29B466C2A10A6F0642/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Aesthetic Anime Girl" />
+<p align="center">
+  <img src="https://images.steamusercontent.com/ugc/876371550985676254/6EE575A7BE63E6C3164E7F29B466C2A10A6F0642/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="500" alt="Black-and-white anime animation" />
+</p>
 
-  <br><br>
+<h1 align="center">Bekzat Rashiduly</h1>
+<p align="center"><strong>Applied AI &amp; Machine Learning</strong></p>
 
-  <!-- Строгий печатающийся заголовок белого цвета -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bekzat;Backend+Developer;AI+%26+ML+Engineer" alt="Typing SVG" />
-  </a>
-</div>
+## About Me
 
----
+I'm a final-year Software Engineering student at **Astana IT University**, studying AI/ML at **Tomorrow School** and working as a Software Engineer at **ESEP**. I'm interested in multilingual speech processing, local language models, and how to evaluate ML systems on real data.
 
-## 👨‍💻 About Me
+## Featured Work
 
-- 💼 Software Engineer at **ESEP**
-- 🎓 3rd-year **Software Engineering** student at **Astana IT University**
-- 🤖 Studying **AI/ML at Tomorrow School**
-- ⚙️ Focused on **Go backend development, system architecture and AI integration**
-- 🧠 Interested in **LLMs, RAG, local AI and intelligent systems**
-- 🏆 3rd place at **AI Steppe Tech Hackathon 2026**
-- 🚀 I enjoy turning technical ideas into real working products
-- 🧩 Strong background in algorithms and competitive programming
+### [Steppe — Local AI for Meetings](https://github.com/gojosatorukz/steppe-meeting-intelligence)
 
----
+A team-built desktop app for transcribing meetings in Kazakh, Russian, and English, generating summaries, and asking questions about transcripts. It runs locally. I built the desktop interface and connected the transcription and Q&A workflows to the API.
 
-## 🚀 Featured Work
+### [TVmaze — Series Rating Classification](https://github.com/gojosatorukz/tvmaze-series-classification)
 
-### 🧠 Steppe — Local AI Meeting Intelligence
+My individual ML project at AITU. I tested how well TV series metadata predicts ratings of 8/10 or higher. The repository includes a reproducible dataset snapshot, nested cross-validation for tuned ensembles, and analysis of model errors on held-out data.
 
-Privacy-first multilingual AI meeting platform that runs locally on the user's computer.
+## Awards
 
-- Real-time transcription in Kazakh, Russian and English
-- AI-generated meeting summaries
-- Action items and deadlines
-- RAG-based Q&A
-- Local AI processing
-- PDF / CSV / JSON export
+- 🥉 **Business Cup** · 3rd place · ₸750,000 prize
+- 🥉 **AI Steppe Tech Hackathon 2026** · 3rd place out of 30 teams · ₸200,000 team prize for Steppe
 
-🏆 **3rd place — AI Steppe Tech Hackathon 2026**
+## Tech Stack
 
----
+**Machine learning & data**
 
-## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### Backend
-`Go` `Python` `Node.js` `REST API` `PostgreSQL` `Redis`
+**Application development**
 
-### AI / ML
-`Python` `LLMs` `RAG` `Speech-to-Text` `Local AI`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Infrastructure
-`Docker` `Git` `GitLab CI/CD` `Kubernetes`
+## What I'm Learning
 
-### Other
-`C++` `Flutter` `Firebase`
+I'm deepening my understanding of model training and evaluation, from setting baselines to analyzing errors. I want to apply those methods to multilingual speech, especially transcription quality for Kazakh and meetings where speakers switch languages.
 
----
+## Connect
 
-## 🧠 Currently Learning
-
-- Advanced **Go backend architecture**
-- **Machine Learning & AI Engineering**
-- Distributed and high-load systems
-- Production AI systems
-- System Design
-
----
-
-## 🎯 Current Focus
-
-I'm currently focused on combining:
-
-**Backend Engineering + AI Engineering + Product Development**
-
-to build scalable products that solve real-world problems.
-
----
-
-## 🤝 Connect with me
-
-[LinkedIn](https://linkedin.com/in/bekzat-rashiduly) •
-[LeetCode](https://leetcode.com/u/bekzatr_/) •
-[Instagram](https://instagram.com/b_rashiduly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bekzat-rashiduly/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AA6B00?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/b_rashiduly/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/b_rashiduly/)
