@@ -21,7 +21,7 @@ My individual ML project at AITU. I tested how well TV series metadata predicts 
 
 ## Awards
 
-- 🥉 **Business Cup** · 3rd place · ₸750,000 prize
+- 🥉 **[Business Cup 2.0](https://github.com/gojosatorukz/zimran-business-cup-2026)** · 3rd place · ₸750,000 team prize
 - 🥉 **AI Steppe Tech Hackathon 2026** · 3rd place out of 30 teams · ₸200,000 team prize for Steppe
 
 ## Tech Stack
@@ -50,3 +50,4 @@ I'm deepening my understanding of model training and evaluation, from setting ba
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bekzat-rashiduly/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-AA6B00?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/b_rashiduly/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/b_rashiduly/)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/b_rashiduly)
