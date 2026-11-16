@@ -19,7 +19,15 @@ I'm passionate about software development, artificial intelligence, and building
 
 ### [Steppe — Local AI for Meetings](https://github.com/gojosatorukz/steppe-meeting-intelligence)
 
-A team-built desktop app for transcribing meetings in Kazakh, Russian, and English, generating summaries, and asking questions about transcripts. It runs locally. I built the desktop interface and connected the transcription and Q&A workflows to the API.
+I built the React/TypeScript interface for this local multilingual meeting assistant, connected it to the live transcription and Q&A APIs, and prepared the demo.
+
+### [Forte Cash Monitor — Video Review with AI](https://github.com/gojosatorukz/forte-cash-monitor)
+
+I led the Datathon finalist team, selected models, prepared video data, and worked on training and evaluating the detector for cash-room footage.
+
+### [On the Spot — AI English Speaking Coach](https://github.com/gojosatorukz/zimran-business-cup-2026/tree/main/apps/on-the-spot)
+
+I built this workplace English practice app end to end, including voice transcription, practice drills, and AI feedback checked against the user's answers.
 
 ## Awards
 
