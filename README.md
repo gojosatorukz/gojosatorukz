@@ -4,8 +4,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=27&amp;pause=1300&amp;color=F0F3F6&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=64&amp;lines=Hi%2C%20I'm%20Bekzat;AI%20%26%20machine%20learning;Apps%2C%20games%20%26%20algorithms;Always%20building%20something" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=27&amp;pause=1300&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=64&amp;lines=Hi%2C%20I'm%20Bekzat;AI%20%26%20machine%20learning;Apps%2C%20games%20%26%20algorithms;Always%20building%20something" width="500" alt="Hi, I'm Bekzat. AI, machine learning, apps, games, and algorithms." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=27&amp;pause=1300&amp;color=DAD4FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=64&amp;lines=Hi%2C%20I'm%20Bekzat;AI.%20Apps.%20Games.%20Algorithms.;What%20else%20can%20code%20do%3F" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=27&amp;pause=1300&amp;color=433478&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=64&amp;lines=Hi%2C%20I'm%20Bekzat;AI.%20Apps.%20Games.%20Algorithms.;What%20else%20can%20code%20do%3F" width="500" alt="Hi, I'm Bekzat. AI, machine learning, apps, games, and algorithms." />
   </picture>
 </p>
 
