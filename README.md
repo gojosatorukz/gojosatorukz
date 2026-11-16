@@ -4,16 +4,16 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=27&amp;pause=1300&amp;color=DAD4FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=64&amp;lines=Hi%2C%20I'm%20Bekzat;AI.%20Apps.%20Games.%20Algorithms.;What%20else%20can%20code%20do%3F" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=27&amp;pause=1300&amp;color=433478&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=64&amp;lines=Hi%2C%20I'm%20Bekzat;AI.%20Apps.%20Games.%20Algorithms.;What%20else%20can%20code%20do%3F" width="500" alt="Hi, I'm Bekzat. AI, machine learning, apps, games, and algorithms." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=27&amp;pause=1300&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=64&amp;lines=Hi%2C%20I'm%20Bekzat;AI.%20Apps.%20Games.%20Algorithms.;What%20else%20can%20code%20do%3F" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=27&amp;pause=1300&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=64&amp;lines=Hi%2C%20I'm%20Bekzat;AI.%20Apps.%20Games.%20Algorithms.;What%20else%20can%20code%20do%3F" width="500" alt="Hi, I'm Bekzat. AI, machine learning, apps, games, and algorithms." />
   </picture>
 </p>
 
 ## About Me
 
-I'm Bekzat, a Software Engineering student at **Astana IT University**, a Software Engineer at **ESEP**, and an AI/ML student at **Tomorrow School**. I'm preparing for graduate study in computer science.
+I'm Bekzat, a Software Engineering student at **Astana IT University**, a **Software Engineer at ESEP**, and an **AI/ML student at Tomorrow School**.
 
-I enjoy solving algorithm problems on LeetCode, building apps, and exploring game development. I'm also interested in startups and what it takes to turn a prototype into something people use.
+I'm passionate about software development, artificial intelligence, and building practical applications. I enjoy solving algorithmic problems on LeetCode, exploring new technologies, and turning ideas into real-world products.
 
 ## Featured Work
 
@@ -65,7 +65,7 @@ A team-built desktop app for transcribing meetings in Kazakh, Russian, and Engli
 
 ## What I'm Learning
 
-I'm studying AI and machine learning in depth, from the math and data to training, evaluation, and deployment. I also keep exploring the rest of computer science, especially algorithms, systems design, and how apps and games are built.
+I'm studying AI and machine learning in depth, from the math and data to training, evaluation, and deployment. I also keep exploring the rest of computer science, especially algorithms, systems design, and how apps are built.
 
 ## Connect
 
