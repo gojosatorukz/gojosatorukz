@@ -29,6 +29,10 @@ I led the Datathon finalist team, selected models, prepared video data, and work
 
 I built this workplace English practice app end to end, including voice transcription, practice drills, and AI feedback checked against the user's answers.
 
+### [TVmaze — Reproducible ML Study](https://github.com/gojosatorukz/tvmaze-series-classification)
+
+I developed the technical work for this AITU course project and extended it into a reproducible machine learning study. I collected the TVmaze dataset, compared metadata and synopsis models on identical splits, tuned models with nested cross-validation, and used error analysis and a separate catalogue to test whether audience data improved classification.
+
 ## Awards
 
 - 🥉 **[Business Cup 2.0](https://github.com/gojosatorukz/zimran-business-cup-2026)** · 3rd place · ₸750,000 team prize
